@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/amogh-sawant-07b4b712a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/amogh-sawant-07b4b712a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amoghsawant17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/amogh-sawant-07b4b712a" height="30" width="40" /></a>
 <a href="https://kaggle.com/amogh1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amogh1708" height="30" width="40" /></a>
 </p>
 
